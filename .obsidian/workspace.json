@@ -26,14 +26,15 @@
             "id": "384859decab87103",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Prompt Engineering Notes.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Prompt Engineering Notes"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Index)"
             }
           }
         ],
@@ -120,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 389.84669494628906
   },
   "right": {
     "id": "7dc08e155383145f",
@@ -206,13 +207,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "e27e64ab9785d54f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
